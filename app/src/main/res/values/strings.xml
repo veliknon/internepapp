@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="message">Сообщение</string>
+    <string name="button">Написать сообщение</string>
+</resources>
